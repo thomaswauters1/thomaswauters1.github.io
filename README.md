@@ -1,5 +1,5 @@
-#thomaswauters1.github.io
+# thomaswauters1.github.io
 
-##Personal website
+## Personal website
 
 Still just a test
